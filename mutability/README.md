@@ -1,10 +1,13 @@
-# hospital
+# Clojure: Mutability with atoms and refs
 
-A Clojure library designed to ... well, that part is up to you.
+Use atoms and references to work with states in Clojure.
+Use a variety of data structures such as vectors, lists, sets, queues and maps;
+Understand concurrency and parallel processing issues; Use atoms and transaction retry;
+Use partials, doseq, dotimes, juxt, future and other functions;
+Understand the difference between atoms and refs;
+Use the advantages and understand the difficulties of using refs.
 
-## Usage
-
-FIXME
+Detailed content: 1. Vectors, Lists, Sets and Queues: Vector, list, set and queues; Simulating the 4 rows of the hospital 2. The problem of concurrency and mutability: Setting a manual limit for the queue; The problem of several concurrent threads 3. Atoms and retries: Atom and swap; Swap and pure functions 4. Partials and refactoring: Partial and simplifying the code; Doseq and dotimes 5. Functions with more complex effects: Transferring people in the hospital and a lot about threading; Immutability; Juxt, is it better?; Reviewing the transfer 6. Refs and dosyncs: References, ref-set and alter; Transfers and synchronization blocks.
 
 ## License
 

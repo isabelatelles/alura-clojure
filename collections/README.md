@@ -1,10 +1,18 @@
-# store
+# Clojure: All about collections
 
-A Clojure library designed to ... well, that part is up to you.
+Work with Collections in Clojure.
+Learn recursion and tail recursion;
+See how to group, sort and compose more complex maps;
+Understand the difference between lazy and eager;
+Understand "infinite" sequences;
+Learn to use language structures which will be part of your daily life. 
 
-## Usage
-
-FIXME
+Detailed content:
+1. Recursion and tail recursion: Implementing a map with recursion; Tail recursion; Do what I did in the lesson; Recur
+2. Arity and loops: Our count and multiple variations of the same function with different arity; Loop and its disadvantages; For in Clojure; Do what I did in the lesson; Loops
+3. Other functions with maps: Grouping and working with more complex maps; Do what I did in the lesson; Grouping
+4. Sorting: Sorting, reverse, pure functions; First, second, nth, get in a list, take; Some and the importance of documentation for recurring situations; Do what I did in the lesson; The second element
+5. Lazy and eager: Keep, filter and the strange world of infinite sequences; Lazy and eager; Conclusion; Do what I did in the lesson; Using keep.
 
 ## License
 

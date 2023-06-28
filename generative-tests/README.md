@@ -1,10 +1,18 @@
-# hospital
+# Clojure: Generators and property tests
 
-A Clojure library designed to ... well, that part is up to you.
+Use generators to create valid values for your models and functions.;
+Use generators to create invalid values.;
+Learn the difference between classic automated and property testing;
+Implement complex property tests that validate part of the system. 
 
-## Usage
-
-FIXME
+Detailed content:
+1. Generators: Tests with manual generators; Which value to test?
+2. Propall and some problems with samples: Defspec and prop/for-all; The problem of using generative testing to test the code as if it were a sample; Do what I did in the lesson; For-all
+3. Property based testing: Property-based testing; Testing properties with the transfer; Generative functions
+4. Errors and properties: Ignoring errors; Creating transfer and testing a property; Properties and errors
+5. Challenges in our safety net: Challenges handling errors; Finding errors in our safety net
+6. Generating actions: Using Schema-based generators; Generating actions; Valid actions for our hospital; More complex generators
+7. Generic actionbased property framework: The final hospital; A real validation; Concluding the complex validation; Property tests.
 
 ## License
 

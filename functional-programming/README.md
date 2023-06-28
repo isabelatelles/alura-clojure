@@ -1,10 +1,18 @@
-# stock
+# Clojure: Introduction to functional programming
 
-A Clojure library designed to ... well, that part is up to you.
+Learn the principles of functional programming with Clojure.
+Understand the importance of immutability in Clojure;
+Learn how to deal with functions and data;
+Pass functions as parameters, and return functions;
+Work with vectors, maps and threading in Clojure.
 
-## Usage
-
-FIXME
+Detailed content:
+1. First functions: Preparing the environment; Functions; Immutability
+2. Conditionals and symbols: Local and global symbols, namespace, bigint and bigdecimal; Multiple let and conditionals; Global or local symbols?
+3. Lambdas and anonymous functions: Intellij, Leiningen and shortcuts; Predicates, when and binding in runtime; Lambdas and anonymous functions; Predicates
+4. First steps with collections: Vectors, get ans updates; Map and filter; Reduce and variations; Errors
+5. Maps and threading: Maps, vals and keys; Threading first; Threading simple
+6. Map, reduce and filters: Destruct sequence, map reduce and thread last; Map filter and composition; Map reduce.
 
 ## License
 

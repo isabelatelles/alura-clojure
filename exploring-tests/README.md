@@ -1,10 +1,17 @@
-# hospital
+# Clojure: Exploring tests
 
-A Clojure library designed to ... well, that part is up to you.
+Learn how to use exploration and TDD techniques in Clojure. 
+Learn the difference between writing tests and actually testing;
+Use techniques like boundary exploration and category partitioning;
+Test errors and expected failure situations;
+Create tests that involve the use of Schemas;
+Understand how pre- and postconditions complement the code guarantee toolkit.
 
-## Usage
-
-FIXME
+Detailed content:
+1. Boundary and Category partition: Boundary and other tests in Clojure; Some threading other test types
+2. Sequences and errors: Tests and sequences; Handling error with Exceptions and nil; Handling other errors
+3. Queues: Queues instead of vectors; Schemas and Tests
+4. Pre and postconditions: Tests with Schemas; Guarantees and Schemas; Postconditions.
 
 ## License
 

@@ -1,10 +1,7 @@
-# hospital
+# Clojure: Record, protocol, multi methods
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Use record, protocols, multi methods e entenda algumas estratégias de composição de comportamento em Clojure.. Faça esse curso e: Entenda quando faz sentido utilizar componentes OO em Clojure; Aprenda a usar Record e Protocols; Faça a ponte com Java através de invocações de inter operabilidade; Crie seu próprio componente OO de cache simples; Utilize multi methods com e sem record.
+Conteúdo Detalhado: 1. Records, Java e OO: O problema das verificações manuais; O record 2. Procols e polimorfismo: Protocols e extend types; Polimorfismo com tipos pré existentes 3. Criando um componente OO na mão: Um componente OO 4. Defmulti e defmethod: Defmulti; defmethod 5. Multimethods: Multimethods sem records.
 
 ## License
 
